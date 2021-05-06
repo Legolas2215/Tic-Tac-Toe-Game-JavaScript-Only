@@ -1,0 +1,49 @@
+.color{
+    background-color:darkred;
+}
+.gamebutton{
+    width: 60px;
+    height: 60px;
+    
+    
+}
+.cross{
+    background-image:url("Images/X.png") ;
+    background-size: 55px 55px;
+    
+}
+.circle{
+    background-image:url("Images/O.png") ;
+    background-size: 60px 60px;
+}
+.grid{
+    background-image:url("Images/Main Grid.png");
+}
+.btn11{
+    background-color: cornsilk;
+    
+}
+.btn12{
+    background-color: cornsilk;
+}
+.btn13{
+    background-color: cornsilk;
+}
+.btn21{
+    background-color: cornsilk;
+}
+.btn22{
+    background-color: cornsilk;
+}
+.btn23{
+    background-color: cornsilk;
+}
+.btn31{
+    background-color: cornsilk;
+}
+.btn32{
+    background-color: cornsilk;
+}
+.btn33{
+    background-color: cornsilk;
+}
